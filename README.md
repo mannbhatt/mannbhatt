@@ -1,3 +1,4 @@
+<div style="background-image: url('https://your-image-url.com'); background-size: cover; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Mann</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -24,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannbhatt&show_icons=true&locale=en&layout=compact" alt="mannbhatt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannbhatt&show_icons=true&locale=en" alt="mannbhatt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannbhatt&show_icons=true&locale=en" alt="mannbhatt" /></p></div>
