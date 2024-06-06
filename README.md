@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mannbhatt" alt="mannbhatt" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native CLI**
+- 🌱 I’m currently learning **advanced React patterns and Next.js features.**
+
+- 👯 I’m looking to collaborate on **exciting frontend projects using React, Next.js, and Tailwind CSS.**
+
+- 💬 Ask me about **frontend development, especially with React, Next.js, and Tailwind CSS.**
+
+- 📫 How to reach me **mannbhattco34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
